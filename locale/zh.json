@@ -1,0 +1,7 @@
+{
+  "meta": {
+    "title": "GLM 用量监控",
+    "description": "在右侧栏查看智谱 AI (BigModel) 订阅套餐用量：Token 配额与重置倒计时、月度 MCP 配额、模型与工具调用量（24 小时 / 7 天 / 30 天切换）。请先在插件配置中填写 API Key。",
+    "detail": "docs/DETAIL.md"
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "meta": {
+    "title": "GLM Monitor",
+    "description": "Shows Zhipu AI (BigModel) subscription usage in a right-sidebar tab: token quota with reset countdown, monthly MCP quota, model calls and tool usage with 24h / 7d / 30d ranges. Set your API key in the plugin config.",
+    "detail": "docs/DETAIL.md"
+  }
+}
